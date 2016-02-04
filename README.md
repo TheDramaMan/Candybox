@@ -1,4 +1,4 @@
 Candybox
 ========
 
-Russian translation
+Ukrainian translation
